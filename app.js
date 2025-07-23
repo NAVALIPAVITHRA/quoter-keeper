@@ -39,3 +39,4 @@ function clearQuotes() {
 }
 
 window.onload = loadQuotes;
+//feature branch commited
