@@ -36,7 +36,9 @@ function clearQuotes() {
   document.getElementById("quoteList").innerHTML = "";
   // Clear from localStorage
   localStorage.removeItem("quotes");
+  
 }
 
 window.onload = loadQuotes;
 //feature branch commited
+//console.log("Pull request testing...");
